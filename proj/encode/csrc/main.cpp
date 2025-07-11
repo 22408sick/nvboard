@@ -27,3 +27,4 @@ int main() {
     single_cycle();
   }
 }
+
