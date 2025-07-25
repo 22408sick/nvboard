@@ -1,0 +1,13 @@
+top=top
+
+# VGA_CLK is set to clk in this example
+data (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)
+ready (LD15)
+overflow (LD14)
+nextdata_n (BTNC)
+a (LD8)
+b (LD9)
+ps2_clk PS2_CLK
+ps2_data PS2_DAT
+
+
